@@ -1,0 +1,10 @@
+*.gem
+*.swp
+*~
+.DS_Store
+.analysis
+.bundle/
+.ruby-gemset
+.ruby-version
+Gemfile.lock
+tmp/*
