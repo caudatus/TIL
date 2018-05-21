@@ -23,5 +23,5 @@ AR session을 실행시키기 위해서는 사용하길 원하는 AR환경에 �
 [Apple Documents][apple]
 
 
-[arworld]: 01_iOS/ARKit/ARWorldTrackingConfiguration.md
+[arworld]: ./ARWorldTrackingConfiguration.md
 [apple]: https://developer.apple.com/documentation/arkit/arconfiguration
