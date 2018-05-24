@@ -15,8 +15,10 @@ Do not subclass or create instances of this class yourself. Instead, instantiate
 
 이 클래스의 인스턴스를 직접 서브 클래싱하거나 생성하지 마시오.
 대신, 아래 제공된 구체적인 하위 클래스 중 하나를 인스턴스화 하시오.
-[UIImpactFeedbackGenerator][impact]를 사용하여 영향이 발생했음을 나타낸다. 예를 들어, 사용자 인터페이스 객체가 무언가와 충돌하거나 제자리로 들어갈 때 햅틱 피드백을 트리거 할 수 있습니다.
+[UIImpactFeedbackGenerator][impact]를 사용하여 영향이 발생했음을 나타낸다. 예를 들어, 사용자 인터페이스 객체가 무언가와 충돌하거나 제자리로 들어갈 때 햅틱 피드백을 트리거 할 수 있다.
+
 [UISelectionFeedbackGenerator][select]를 사용하여 선택, 변경을 햅틱 피드백을 제공할 수 있다.
+
 [UINotificationFeedbackGenerator][noti]를 사용하 성공, 실패, 경고에 햅틱 피드백을 제공할 수 있다.
 
 <br/>
