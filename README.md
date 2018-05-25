@@ -57,4 +57,4 @@
 [aranchor]: 01_iOS/ARKit/ARAnchor.md
 [feedback]: 01_iOS/UIKit/UIFeedbackGenerator.md
 [scnmaterial]: 01_iOS/SceneKit/SCNMaterial/SCNMaterial.md
-[mateproperty]: 01_iOS/SceneKit/SCNMaterialProperty.md
+[mateproperty]: 01_iOS/SceneKit/SCNMaterial/SCNMaterialProperty.md
