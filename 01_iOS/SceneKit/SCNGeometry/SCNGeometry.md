@@ -36,4 +36,4 @@ SceneKit에서, [SCNNode][scnnode] 객체에 연결된 geometries는 scene에서
 [scnmorpher]: /01_iOS/SceneKit/SCNMorpher.md
 [scnskinner]: /01_iOS/SceneKit/SCNSkinner.md
 [scnshadable]: /01_iOS/SceneKit/SCNShadable.md
-[apple]: https://developer.apple.com/documentation/scenekit/scnscenesource
+[apple]: https://developer.apple.com/documentation/scenekit/scngeometry#1655143
