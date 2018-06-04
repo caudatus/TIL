@@ -18,7 +18,7 @@ The number and type of lights in a scene is a key factor in SceneKit’s renderi
 
 [SCNode][1]객체의 [light][2] 속성을 사용하여 lights를 연결하여 scene을 밝게합니다.
 
-[type][3]property를 사용하여 light의 유형을 설정합니다. light의 유형에 따라 위치와 방향이 동작에 영향을 줄 수 있습니다. light가 부착 된 노드를 통해 라이트의 위치와 방향을 제어 할 수 있습니다. 빛의 방향은 해당 유형에 적용 할 수있는 경우 해당 노드의 로컬 좌표계의 음의 z 축을 따릅니다.
+[type][3] property를 사용하여 light의 유형을 설정합니다. light의 유형에 따라 위치와 방향이 동작에 영향을 줄 수 있습니다. light가 부착 된 노드를 통해 라이트의 위치와 방향을 제어 할 수 있습니다. 빛의 방향은 해당 유형에 적용 할 수있는 경우 해당 노드의 로컬 좌표계의 음의 z 축을 따릅니다.
 
 light 객체의 다른 properties는 scene을 비추는 방법에 영향을 줍니다. 모든 light 객체에는 [SCNMaterial][4] 객체와 상호 작용하여 렌더링 된 장면에서 픽셀 색상을 생성하는 [color][5] 속성이 있습니다. 감쇠(가늘게 됨), 쉐도잉 및 spot angle과 같은 다른 properties는 특정 유형의 light동작에 영향을 줄 수 있습니다.
 
