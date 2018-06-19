@@ -5,14 +5,14 @@
 - 문서 생성은 [GFM (Github Flavored Markdown)](https://help.github.com/articles/github-flavored-markdown/) 을 사용한다. (확장자 `.md`)
 - iOS/Swift 기술이나 애플공식문서의 분류, 기타 주제에 따라 폴더를 만든다.
 - 폴더 및 파일명은 영어로 한다.
-- 짧고 간결한 문장, 외부링크 사용
+- 공식문서 번역, 짧고 간결한 문장, 외부링크 사용
 
 ## 작성은 로컬에서
 - 로컬에서 .md 파일을 작성하여 remote repository에 push 한다.
 
 ## TAGS
 [NSPredicate][1], [CoreData][2], [asyncAfter][3], [SwipeCellKit][4], [GeometryTypes][5], [SCNCapsule][6], [SCNPlane][7], [UITableView][8], [UINavigationBar][9], [UIScrollView][10], [UIViewController][11], [WKWebView][12], [App Life Cycle][13], [Display ClearColor][14], [The Way Open WebPage in the App][15],
-[Any and AnyObject][16], [Git][17], [Payload][18], [REST API][19], [SCNCone][20], [SCNShape][21], [UIBezierPath][22], [SCNScene hitTest][23], [CABasicAnimation][24], [EulerAngles][25], [Physics Simulation][26], [SCNPhysicsBody][27], [SCNPhysicsShape][28], [Core Motion][29], [SCNPhysicsVehicle][30],  [ARWorldTrackingConfiguration][31],  [ARSCNView][32], [ARKit][33], [Timer][34], [ARSKView][35], [ARConfiguration][36], [ARAnchor][37], [UIFeedbackGenerator][38], [SCNMaterial][39], [SCNMaterialProperty][40], [SCNMaterial.LightingModel][41], [SCNGeometry][42], [Core App][43], [UIDevice][44], [ARSCNViewDelegate][45], [SCNCamera][46], [SCNLight][47], [SCNNode][48], [Symbolicate Crash Report][49], [ARSessionObserver][50], [ARSession][51], [ARSessionDelegate][52], [ARFrame][53], [SCNTransaction][54], [SCNMorpher][55], [SCNParticleSystem][56], [SCNParticlePropertyController][57], [SCNSceneRenderer][58], [SCNLayer][59], [SCNScene][60]
+[Any and AnyObject][16], [Git][17], [Payload][18], [REST API][19], [SCNCone][20], [SCNShape][21], [UIBezierPath][22], [SCNScene hitTest][23], [CABasicAnimation][24], [EulerAngles][25], [Physics Simulation][26], [SCNPhysicsBody][27], [SCNPhysicsShape][28], [Core Motion][29], [SCNPhysicsVehicle][30],  [ARWorldTrackingConfiguration][31],  [ARSCNView][32], [ARKit][33], [Timer][34], [ARSKView][35], [ARConfiguration][36], [ARAnchor][37], [UIFeedbackGenerator][38], [SCNMaterial][39], [SCNMaterialProperty][40], [SCNMaterial.LightingModel][41], [SCNGeometry][42], [Core App][43], [UIDevice][44], [ARSCNViewDelegate][45], [SCNCamera][46], [SCNLight][47], [SCNNode][48], [Symbolicate Crash Report][49], [ARSessionObserver][50], [ARSession][51], [ARSessionDelegate][52], [ARFrame][53], [SCNTransaction][54], [SCNMorpher][55], [SCNParticleSystem][56], [SCNParticlePropertyController][57], [SCNSceneRenderer][58], [SCNLayer][59], [SCNScene][60], [SCNRenderer][61]
 
 
 
@@ -78,3 +78,4 @@
 [58]: 01_iOS/SceneKit/SCNSceneRenderer/SCNSceneRenderer.md
 [59]: 01_iOS/SceneKit/SCNLayer.md
 [60]: 01_iOS/SceneKit/SCNScene.md
+[61]: 01_iOS/SceneKit/SCNRenderer.md
